@@ -12,6 +12,7 @@
 		A5E2A1531D31D4090054072F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5E2A1511D31D4090054072F /* Main.storyboard */; };
 		A5E2A1551D31D4090054072F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5E2A1541D31D4090054072F /* Assets.xcassets */; };
 		A5E2A1581D31D4090054072F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5E2A1561D31D4090054072F /* LaunchScreen.storyboard */; };
+		A5E2A1601D31D6FC0054072F /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = A5E2A15F1D31D6FC0054072F /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A5E2A1541D31D4090054072F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5E2A1571D31D4090054072F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A5E2A1591D31D4090054072F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5E2A15F1D31D6FC0054072F /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		A5E2A14C1D31D4090054072F /* pokedex-by-devslopes */ = {
 			isa = PBXGroup;
 			children = (
+				A5E2A15F1D31D6FC0054072F /* pokemon.csv */,
 				A5E2A14D1D31D4090054072F /* AppDelegate.swift */,
 				A5E2A14F1D31D4090054072F /* ViewController.swift */,
 				A5E2A1511D31D4090054072F /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				A5E2A1581D31D4090054072F /* LaunchScreen.storyboard in Resources */,
 				A5E2A1551D31D4090054072F /* Assets.xcassets in Resources */,
+				A5E2A1601D31D6FC0054072F /* pokemon.csv in Resources */,
 				A5E2A1531D31D4090054072F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
